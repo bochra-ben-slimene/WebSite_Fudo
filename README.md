@@ -6,5 +6,5 @@ This website is built using HTML, CSS, and JavaScript.
 
 ## Visit the Site
 
-You can visit the site here: [Fashion](https://simple-site-Fudo.vercel.app/)
+You can visit the site here: [Fudo](https://web-site-fudo.vercel.app/)
 
